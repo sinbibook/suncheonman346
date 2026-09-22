@@ -460,21 +460,29 @@ class HeaderFooterMapper extends BaseDataMapper {
         if (!this.isDataLoaded || !this.data.property) return;
 
         // Footer 로고 이미지 매핑 (data-footer-logo 속성 사용)
+        // 로고 이미지가 있으면 이미지를 노출하고 숙소명 텍스트는 숨김, 없으면 텍스트만 노출
         const footerLogoImage = this.safeSelect('[data-footer-logo]');
-        if (footerLogoImage) {
-            const logoUrl = this._getLogoUrl();
-
-            if (logoUrl) {
-                footerLogoImage.onerror = () => {};
-                footerLogoImage.src = logoUrl;
-                footerLogoImage.alt = this.getPropertyName();
-            }
-        }
-
-        // Footer 로고 텍스트 매핑 (customFields 우선)
         const footerLogoText = this.safeSelect('[data-footer-logo-text]');
-        if (footerLogoText) {
-            footerLogoText.textContent = this.getPropertyNameEn();
+        const logoUrl = this._getLogoUrl();
+
+        if (footerLogoImage && logoUrl) {
+            footerLogoImage.onerror = () => {};
+            footerLogoImage.src = logoUrl;
+            footerLogoImage.alt = this.getPropertyName();
+            footerLogoImage.style.display = '';
+
+            if (footerLogoText) {
+                footerLogoText.style.display = 'none';
+            }
+        } else {
+            if (footerLogoImage) {
+                footerLogoImage.style.display = 'none';
+            }
+
+            if (footerLogoText) {
+                footerLogoText.textContent = this.getPropertyNameEn();
+                footerLogoText.style.display = '';
+            }
         }
     }
 
