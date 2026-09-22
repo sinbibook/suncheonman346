@@ -1,1 +1,1 @@
-# suncheonman346
+# template-full-banner-wipe
