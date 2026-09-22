@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-09-22T03:07:15.693183016Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-09-22T03:09:24.147811981Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -1766,7 +1766,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "햇살과 바람 사이, 잠시 쉬어가는 하루",
                 "images": [
                   {
                     "id": "01a0c70c-7033-7f05-b20b-b265e088e2fe",
@@ -1777,7 +1777,7 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": "햇살이 비추는 방과 바람이 오가는 테라스.\n서두르던 마음을 내려놓고 천천히 하루를 보내보세요.\n좋아하는 사람과 이야기를 나누고, 가만히 풍경을 바라보는 시간.\n순천 순천만346 펜션 에서는 소소한 순간들이 편안한 쉼이 됩니다."
               },
               "about": [
                 {
