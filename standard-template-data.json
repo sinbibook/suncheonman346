@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-09-22T02:57:03.264721200Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-09-22T02:57:59.259136198Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -1546,7 +1546,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "자연의 여유가 더해지는 편안한 머무름",
                 "images": [
                   {
                     "id": "01a0c702-3ffe-70de-a8e2-954ad4ec9b89",
@@ -1631,7 +1631,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": " "
               },
               "closing": {
                 "title": " ",
@@ -1758,7 +1758,16 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a0c70c-7033-7f05-b20b-b265e088e2fe",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/main_hero/1790045876028-vha9z2rtk6.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
               "about": [ ]
