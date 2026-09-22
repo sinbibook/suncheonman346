@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-09-22T03:22:09.601697542Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-09-22T03:22:30.964500387Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -1796,7 +1796,7 @@
                   "description": "은은한 햇살이 들어오는 공간에서\n이야기를 나누고 창밖 풍경을 바라보며,\n여유로운 하루를 보내보세요."
                 },
                 {
-                  "title": "",
+                  "title": " ",
                   "images": [
                     {
                       "id": "01a0c718-56a6-7312-baac-120cc860d678",
@@ -1811,7 +1811,7 @@
                   "description": "여유로운 공간에서 즐기는 식사 시간은\n단순한 한 끼를 넘어 특별한 기억으로 남습니다.\n편안한 분위기 속에서 온전한 시간을 보내보세요."
                 },
                 {
-                  "title": "",
+                  "title": " ",
                   "images": [
                     {
                       "id": "01a0c718-569a-783c-b120-568a4959eebd",
