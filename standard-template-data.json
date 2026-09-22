@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-09-22T03:26:13.709950177Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-09-22T03:26:59.398018288Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -1720,7 +1720,7 @@
                     "id": "01a0c707-6bcd-73d5-9f13-c99466d61938",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/index_gallery/1790045547012-ew1qrm9mbu.jpg",
                     "sortOrder": 4,
-                    "description": "자연 속 휴식",
+                    "description": "자연 속 여유",
                     "isSelected": true,
                     "blockId": null
                   }
