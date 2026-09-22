@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-09-22T02:56:29.014239750Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-09-22T02:57:03.264721200Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -1848,6 +1848,105 @@
             "isSelected": true,
             "blockId": null,
             "category": "property_thumbnail"
+          },
+          {
+            "id": "01a0c70b-942b-733f-8496-53f00e22e2e6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819636-i0hctfp6th.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-941d-7707-90ed-d9060e3fd6cc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819632-5w0xgpth0h.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-9428-7f4c-832a-3459e2b808a4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819637-uszje117rs.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-942c-77d9-812c-0306d1487f0d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819638-0i0plkewb2.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-9427-727a-9097-942bb3d699ec",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819641-hyldb5dz9j.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-942b-723d-8354-ff3b02103fdc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819639-xirgsy6unp.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-942b-7d52-835e-4560306248c4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819641-di897vw8kc.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-9513-74b4-aeab-19f77b5ab815",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819641-3m2kyqotzv.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-9458-7f72-927d-11219309345b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819642-4sjb3mkk7m.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-9542-7bdc-b344-2d5b0e6c1c06",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819644-8p0opc3ajd.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0c70b-94a6-7304-a75d-56fda08f0e39",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/property_exterior/1790045819643-1r90693wqw.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
           }
         ],
         "nameEn": "Suncheon Suncheonman 346 Pension"
