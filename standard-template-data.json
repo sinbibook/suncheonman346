@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-09-22T03:18:57.463758715Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-09-22T03:22:09.601697542Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -1808,7 +1808,7 @@
                     }
                   ],
                   "blockId": "65b7098a-94dc-4a83-a39f-fb1bf43a64e6",
-                  "description": ""
+                  "description": "여유로운 공간에서 즐기는 식사 시간은\n단순한 한 끼를 넘어 특별한 기억으로 남습니다.\n편안한 분위기 속에서 온전한 시간을 보내보세요."
                 },
                 {
                   "title": "",
@@ -1823,7 +1823,7 @@
                     }
                   ],
                   "blockId": "58be8cad-c3b0-4067-b7be-528cbe8acfd6",
-                  "description": ""
+                  "description": "소중한 반려견과 함께하는 여행이\n더욱 자연스럽고 편안하게 이어질 수 있도록 준비했습니다.\n같은 공간에서 머무는 시간의 의미를 더해보세요.\n"
                 }
               ]
             }
