@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-09-22T02:58:26.413227588Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-09-22T02:59:18.062798253Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -1688,7 +1688,7 @@
                     "id": "01a0c707-6bdb-7afe-ae91-787a0fdd25f9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/index_gallery/1790045547009-60n6wajbaq.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "초록빛 풍경",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1696,7 +1696,7 @@
                     "id": "01a0c707-6bd0-7f18-921a-80fc8d77d1c1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/index_gallery/1790045547011-1sw0sedyqw.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "프라이빗 식사",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1704,7 +1704,7 @@
                     "id": "01a0c707-6cb4-71d5-9ac5-a33bc68c92d9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0c6f0-f83d-774f-9475-dc1e867957b3/index_gallery/1790045547011-fhx4knqyr7.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "함께하는 휴식",
                     "isSelected": true,
                     "blockId": null
                   },
