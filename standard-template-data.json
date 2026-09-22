@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-09-22T02:57:59.259136198Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-09-22T02:58:26.413227588Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -1650,7 +1650,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
+                "title": "NATURE & COMFORT",
                 "images": [
                   {
                     "id": "01a0c702-412e-7491-a339-5589a15e8d99",
@@ -1679,7 +1679,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "햇살과 바람이 전하는 여유, 아늑한 공간의 편안함.\n함께 머무는 하루가 기분 좋은 휴식으로 남습니다."
               },
               "gallery": {
                 "title": "SPECIAL",
