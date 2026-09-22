@@ -68,27 +68,37 @@ class HeaderFooterMapper extends BaseDataMapper {
     mapHeaderLogo() {
         if (!this.isDataLoaded || !this.data.property) return;
 
-        const property = this.data.property;
-
         // Header 로고 텍스트 매핑 (customFields 우선)
         const propertyNameEn = this.getPropertyNameEn();
         const logoTextElements = this.safeSelectAll('[data-logo-text]');
-        logoTextElements.forEach(logoText => {
-            if (logoText) {
-                logoText.textContent = propertyNameEn;
-            }
-        });
 
         // Header 로고 이미지 매핑 (data-logo 속성 사용)
+        // 로고 이미지가 있으면 이미지를 노출하고 숙소명 텍스트는 숨김, 없으면 텍스트만 노출
         const logoImage = this.safeSelect('[data-logo]');
-        if (logoImage) {
-            const logoUrl = this._getLogoUrl();
+        const logoUrl = this._getLogoUrl();
 
-            if (logoUrl) {
-                logoImage.onerror = () => {};
-                logoImage.src = logoUrl;
-                logoImage.alt = this.getPropertyName();
+        if (logoImage && logoUrl) {
+            logoImage.onerror = () => {};
+            logoImage.src = logoUrl;
+            logoImage.alt = this.getPropertyName();
+            logoImage.style.display = '';
+
+            logoTextElements.forEach(logoText => {
+                if (logoText) {
+                    logoText.style.display = 'none';
+                }
+            });
+        } else {
+            if (logoImage) {
+                logoImage.style.display = 'none';
             }
+
+            logoTextElements.forEach(logoText => {
+                if (logoText) {
+                    logoText.textContent = propertyNameEn;
+                    logoText.style.display = '';
+                }
+            });
         }
     }
 
