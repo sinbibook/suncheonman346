@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-09-22T02:52:30.499015363Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-09-22T02:55:12.918322865Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -1682,7 +1682,7 @@
                 "description": ""
               },
               "gallery": {
-                "title": "",
+                "title": "SPECIAL",
                 "images": [
                   {
                     "id": "01a0c707-6bdb-7afe-ae91-787a0fdd25f9",
@@ -1727,7 +1727,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "바람을 느끼며 함께 나누는 느긋한 시간"
               },
               "signature": {
                 "title": "",
