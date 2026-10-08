@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.43.0",
-    "generatedAt": "2026-10-02T03:01:46.926282462Z",
+    "version": "1.44.0",
+    "generatedAt": "2026-10-08T09:40:12.080484315Z",
     "templateType": "full_banner_wipe",
     "propertyId": "f80e0290-c1c9-465a-a3ef-c7953d944ef4",
     "homepageId": "01a0c6f0-f83d-774f-9475-dc1e867957b3"
@@ -27,7 +27,7 @@
     "province": "도/시",
     "city": "시/군/구",
     "domain": "suncheonman346.com",
-    "realtimeBookingId": "https://m.booking.naver.com/booking/3/bizes/1735574",
+    "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1735574",
     "ybsId": "81247",
     "tripPropertyId": "13226",
     "partnerType": "distributor_a",
@@ -252,7 +252,7 @@
           {
             "id": "01a0c88f-bb57-7564-a4f1-0963d99eec6f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/vn1hUtjNgAST.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -262,7 +262,7 @@
           {
             "id": "01a0c88f-bb57-7590-97fd-b2a2a43cb160",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/9a0WYPU1J8vQ.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -270,7 +270,7 @@
           {
             "id": "01a0c88f-bb57-75b7-8684-f94847e1417e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/5Ytin7cuFyhs.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -278,7 +278,7 @@
           {
             "id": "01a0c88f-bb57-75d1-90a4-667e960c5ebf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/qnOiY5WA1CaS.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -286,7 +286,7 @@
           {
             "id": "01a0c88f-bb57-7642-bfa7-d676ac2308c8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/BJxdgy4fovab.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -294,7 +294,7 @@
           {
             "id": "01a0c88f-bb57-7670-9a2c-d443fa29755f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/h2pXoFwyLuOA.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -302,7 +302,7 @@
           {
             "id": "01a0c88f-bb57-7692-9760-ddae11437719",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/Zhoam0Q2w15p.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -310,7 +310,7 @@
           {
             "id": "01a0c88f-bb57-76bc-8b5c-1cea86610f5f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/qk3ndyMLuD87.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -318,7 +318,7 @@
           {
             "id": "01a0c88f-bb57-76f0-b965-e882e6ae6f68",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/jS6MwfsWnpbk.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -326,7 +326,7 @@
           {
             "id": "01a0c88f-bb57-7715-9120-23104ff0fd26",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/tf0uPa3Brv82.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -334,7 +334,7 @@
           {
             "id": "01a0c88f-bb57-7727-b11e-80772d680e86",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/22/uHbVtIX5eDAJ.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
