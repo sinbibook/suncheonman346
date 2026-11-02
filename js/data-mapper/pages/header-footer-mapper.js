@@ -566,6 +566,30 @@ class HeaderFooterMapper extends BaseDataMapper {
     }
 
     /**
+     * Footer 농어촌민박사업자 이미지 매핑
+     * homepage.customFields.footer.ruralStayMark → [data-footer-rural-stay-mark]
+     * url 이 있을 때만 노출하고, 없으면 숨겨 기존 푸터와 같다.
+     * 프리뷰는 같은 페이지에서 다시 매핑하므로 매번 표시 상태를 되돌린다.
+     */
+    mapFooterRuralStayMark() {
+        const mark = this.safeGet(this.data, 'homepage.customFields.footer.ruralStayMark');
+        const markUrl = mark && mark.url ? String(mark.url) : '';
+        const alt = (mark && mark.description && String(mark.description).trim()) || '농어촌민박사업자';
+
+        document.querySelectorAll('[data-footer-rural-stay-mark-wrap]').forEach(wrap => {
+            wrap.style.display = markUrl ? '' : 'none';
+        });
+        document.querySelectorAll('[data-footer-rural-stay-mark]').forEach(img => {
+            if (!markUrl) {
+                img.removeAttribute('src');
+                return;
+            }
+            img.src = markUrl;
+            img.alt = alt;
+        });
+    }
+
+    /**
      * Footer 소셜 링크 매핑
      * socialLinks가 빈 객체면 전체 섹션 숨김
      * 값이 있는 링크만 표시
@@ -646,6 +670,7 @@ class HeaderFooterMapper extends BaseDataMapper {
         // Footer 매핑
         this.mapFooterLogo();
         this.mapFooterInfo();
+        this.mapFooterRuralStayMark();
         this.mapSocialLinks();
 
         // E-commerce registration 매핑
